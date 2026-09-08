@@ -1,26 +1,28 @@
-# Hi there, I'm [Your Name] 👋
+# Hello, I'm SAHAS ABEYGUNARATHNE 👋
+**IT UNDERGRADUATE AT THE UNIVERSITY OF MORATUWA**
 
 ### 👨‍💻 About Me
-I'm a developer and designer passionate about building scalable platforms at the intersection of frontend precision and backend logic. I enjoy blending modern UI/UX aesthetics with robust engineering.
+Dedicated IT undergraduate pursuing a BSc (Hons) in Information Technology, with a passion for software engineering and full-stack development. Possess strong analytical and problem-solving skills, supported by hands-on experience in web development and software projects. Seeking a Software Engineering Internship to further develop technical expertise and contribute to building scalable, high-quality software solutions.
 
-- 🔭 Currently working on **AgroIntel** (AI-powered crop health analysis) & **Swastham** (Wellness e-commerce platform)
-- 🌱 Currently diving deeper into **Next.js**, **React Native**, and **Cybersecurity (CTF)**
-- 🎨 In my free time, I focus on graphic design, creating cinematic tech visuals, and mentoring others.
+---
 
-### 🛠️ Tech Stack & Tools
-<!-- Using skillicons.dev for clean, modern icons -->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,nodejs,express,mongodb,figma,ps,pr&perline=12" />
-  </a>
-</p>
+### 🛠️ TECHNICAL STACK: The stack I reach for
+*A comprehensive toolkit spanning scalable backend architecture, modern frontends, and machine learning integration.*
 
-### 📊 GitHub Stats
-<!-- Using github-readme-stats for dynamic cards -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-</p>
+**</> Programming Languages**
+`Python` | `TypeScript` | `JavaScript` | `Java` | `C/C++`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
+**🌐 Frontend**
+`Next.js` | `React` | `Tailwind CSS` | `HTML/CSS`
+
+**🗄️ Backend & APIs**
+`Node.js` | `FastAPI` | `Laravel`
+
+**💾 Databases**
+`PostgreSQL` | `MySQL` | `MongoDB` | `Supabase`
+
+**🧠 Data & AI/ML**
+`PyTorch` | `TensorFlow` | `LangChain` | `NumPy`
+
+**📱 Mobile & Cloud**
+`React Native` | `Docker` | `Firebase`
