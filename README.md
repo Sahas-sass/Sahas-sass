@@ -9,7 +9,7 @@
   Upload a banner image (like a pixel art gif or tech background) to your repository and replace the 'src' link below. 
 -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x400/0D1117/FFFFFF?text=Upload+Your+Banner+Image+Here" alt="Banner Image" width="100%">
+  <img src="[https://via.placeholder.com/1200x400/0D1117/FFFFFF?text=Upload+Your+Banner+Image+Here](https://i.pinimg.com/1200x/39/2c/f4/392cf408ba0887f854a028a252428fcb.jpg)" alt="Banner Image" width="100%">
 </p>
 
 <p align="center">
