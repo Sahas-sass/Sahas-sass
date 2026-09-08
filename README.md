@@ -11,14 +11,14 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Sahas-sass?label=Followers&style=social" alt="Followers">
-  <!-- <img src="https://komarev.com/ghpvc/?username=Sahas-sass&label=Profile%20Views&color=8a2be2&style=flat-square" alt="Views"> -->
+  <img src="https://komarev.com/ghpvc/?username=Sahas-sass&label=Profile%20Views&color=8a2be2&style=flat-square" alt="Views">
 </p>
 
 <br>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahas-sass&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahas-sass&theme=tokyonight&hide_border=true&layout=compact&border_radius=5" alt="Top Languages" width="48%">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahas-sass&theme=tokyonight&hide_border=true&layout=compact&border_radius=5" alt="Top Languages" width="48%"> -->
 </p>
 
 ---
