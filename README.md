@@ -21,7 +21,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahas-sass&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahas-sass&theme=tokyonight&hide_border=true&layout=compact&border_radius=5" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=Sahas-sass&theme=tokyonight&hide_border=true&layout=compact&border_radius=5" alt="Top Languages" width="48%">
 </p>
 
 ---
@@ -119,8 +119,4 @@ I'm a dedicated IT undergraduate pursuing a BSc (Hons) in Information Technology
 
 <br>
 
-### 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahas-sass&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%">
-</p>
