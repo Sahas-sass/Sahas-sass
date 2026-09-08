@@ -1,13 +1,49 @@
-# Hello, I'm SAHAS ABEYGUNARATHNE 👋
-**IT UNDERGRADUATE AT THE UNIVERSITY OF MORATUWA**
+<h1 align="center">SAHAS ABEYGUNARATHNE</h1>
 
-### 👨‍💻 About Me
-Dedicated IT undergraduate pursuing a BSc (Hons) in Information Technology, with a passion for software engineering and full-stack development. Possess strong analytical and problem-solving skills, supported by hands-on experience in web development and software projects. Seeking a Software Engineering Internship to further develop technical expertise and contribute to building scalable, high-quality software solutions.
+<p align="center">
+  <kbd>Software Engineer</kbd> • <kbd>Full-Stack Developer</kbd> • <kbd>IT Undergraduate</kbd>
+</p>
+
+<!-- 
+  BANNER IMAGE: 
+  Upload a banner image (like a pixel art gif or tech background) to your repository and replace the 'src' link below. 
+-->
+<p align="center">
+  <img src="https://via.placeholder.com/1200x400/0D1117/FFFFFF?text=Upload+Your+Banner+Image+Here" alt="Banner Image" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=social" alt="Followers">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=8a2be2&style=flat-square" alt="Views">
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&theme=tokyonight&hide_border=true&layout=compact&border_radius=5" alt="Top Languages" width="48%">
+</p>
 
 ---
 
-### 🛠️ TECHNICAL STACK: The stack I reach for
-*A comprehensive toolkit spanning scalable backend architecture, modern frontends, and machine learning integration.*
+### 🧠 Professional Journey
+
+I'm a dedicated IT undergraduate pursuing a BSc (Hons) in Information Technology at the University of Moratuwa, with a passion for software engineering and full-stack development. With hands-on experience in modern web development and AI projects, I bring strong analytical and problem-solving skills to build scalable, high-quality software solutions.
+
+**🎯 Specialized In:**
+- Building intelligent web applications with modern frameworks (React, Next.js)
+- Integrating AI capabilities into software solutions (TensorFlow, PyTorch)
+- Developing responsive, scalable backend systems (Node.js, FastAPI)
+- Database architecture and management (PostgreSQL, MongoDB)
+
+**🔍 Currently Exploring:**
+- Advanced Machine Learning integrations (LangChain)
+- Cloud-native development (Docker, Firebase)
+- Scalable Enterprise Platforms
+
+---
+
+### 🛠️ Technical Stack
 
 **</> Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
@@ -46,22 +82,45 @@ Dedicated IT undergraduate pursuing a BSc (Hons) in Information Technology, with
 
 ---
 
-### 🚀 Featured Projects
+### 🎓 Education & Qualifications
+
+<table>
+  <tr>
+    <td width="50px" align="center">🎓</td>
+    <td>
+      <strong>University of Moratuwa</strong><br>
+      BSc (Hons) in Information Technology<br>
+      <em>Undergraduate</em>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Professional Highlights
+
+<details>
+  <summary>🔵 <b>Software Development</b></summary>
+  <br>
+  Experienced in building full-stack platforms including e-commerce wellness platforms (Swastham) and skill-monetization networks, utilizing TypeScript, Next.js, and modern CSS frameworks.
+</details>
+
+<details>
+  <summary>🔵 <b>AI & Machine Learning</b></summary>
+  <br>
+  Developed intelligent systems such as AgroIntel for AI-powered crop health analysis and Glucovision AI for rural clinic health screening using Python and TensorFlow.
+</details>
+
+<details>
+  <summary>🔵 <b>Project Management</b></summary>
+  <br>
+  Actively managing full-stack project lifecycles from architectural planning to deployment using agile methodologies.
+</details>
+
+<br>
+
+### 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/YOUR-USERNAME/agrointel">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=agrointel&theme=tokyonight&bg_color=0D1117&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/YOUR-USERNAME/swastham">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=swastham&theme=tokyonight&bg_color=0D1117&hide_border=true" width="48%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/YOUR-USERNAME/nethra-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=nethra-ai&theme=tokyonight&bg_color=0D1117&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/YOUR-USERNAME/skill-connect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=skill-connect&theme=tokyonight&bg_color=0D1117&hide_border=true" width="48%" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahas-sass&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%">
 </p>
