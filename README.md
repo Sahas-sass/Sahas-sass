@@ -13,15 +13,15 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/YOUR-USERNAME?label=Followers&style=social" alt="Followers">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=8a2be2&style=flat-square" alt="Views">
+  <img src="https://img.shields.io/github/followers/Sahas-sass?label=Followers&style=social" alt="Followers">
+  <img src="https://komarev.com/ghpvc/?username=Sahas-sass&label=Profile%20Views&color=8a2be2&style=flat-square" alt="Views">
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&theme=tokyonight&hide_border=true&layout=compact&border_radius=5" alt="Top Languages" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahas-sass&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahas-sass&theme=tokyonight&hide_border=true&layout=compact&border_radius=5" alt="Top Languages" width="48%">
 </p>
 
 ---
@@ -108,7 +108,7 @@ I'm a dedicated IT undergraduate pursuing a BSc (Hons) in Information Technology
 <details>
   <summary>🔵 <b>AI & Machine Learning</b></summary>
   <br>
-  Developed intelligent systems such as AgroIntel for AI-powered crop health analysis and Glucovision AI for rural clinic health screening using Python and TensorFlow.
+  Developed intelligent systems such as AgroIntel for AI-powered crop health analysis and Nethra AI for rural clinic health screening using Python and TensorFlow.
 </details>
 
 <details>
