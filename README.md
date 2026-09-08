@@ -5,13 +5,13 @@
 </p>
 
 <!-- BANNER IMAGE -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.pinimg.com/736x/ca/d0/1a/cad01af774008bc433115b116bd0f6f8.jpg" alt="Banner Image" width="100%">
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Sahas-sass?label=Followers&style=social" alt="Followers">
-  <img src="https://komarev.com/ghpvc/?username=Sahas-sass&label=Profile%20Views&color=8a2be2&style=flat-square" alt="Views">
+  <!-- <img src="https://komarev.com/ghpvc/?username=Sahas-sass&label=Profile%20Views&color=8a2be2&style=flat-square" alt="Views"> -->
 </p>
 
 <br>
