@@ -43,3 +43,25 @@ Dedicated IT undergraduate pursuing a BSc (Hons) in Information Technology, with
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+### 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/YOUR-USERNAME/agrointel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=agrointel&theme=tokyonight&bg_color=0D1117&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/YOUR-USERNAME/swastham">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=swastham&theme=tokyonight&bg_color=0D1117&hide_border=true" width="48%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/YOUR-USERNAME/nethra-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=nethra-ai&theme=tokyonight&bg_color=0D1117&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/YOUR-USERNAME/skill-connect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR-USERNAME&repo=skill-connect&theme=tokyonight&bg_color=0D1117&hide_border=true" width="48%" />
+  </a>
+</p>
