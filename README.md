@@ -4,12 +4,9 @@
   <kbd>Software Engineer</kbd> • <kbd>Full-Stack Developer</kbd> • <kbd>IT Undergraduate</kbd>
 </p>
 
-<!-- 
-  BANNER IMAGE: 
-  Upload a banner image (like a pixel art gif or tech background) to your repository and replace the 'src' link below. 
--->
+<!-- BANNER IMAGE -->
 <p align="center">
-  <img src="[https://via.placeholder.com/1200x400/0D1117/FFFFFF?text=Upload+Your+Banner+Image+Here](https://i.pinimg.com/1200x/39/2c/f4/392cf408ba0887f854a028a252428fcb.jpg)" alt="Banner Image" width="100%">
+  <img src="https://i.pinimg.com/736x/ca/d0/1a/cad01af774008bc433115b116bd0f6f8.jpg" alt="Banner Image" width="100%">
 </p>
 
 <p align="center">
@@ -21,7 +18,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahas-sass&theme=tokyonight&hide_border=true&border_radius=5" alt="GitHub Streak" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=Sahas-sass&theme=tokyonight&hide_border=true&layout=compact&border_radius=5" alt="Top Languages" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahas-sass&theme=tokyonight&hide_border=true&layout=compact&border_radius=5" alt="Top Languages" width="48%">
 </p>
 
 ---
@@ -108,7 +105,7 @@ I'm a dedicated IT undergraduate pursuing a BSc (Hons) in Information Technology
 <details>
   <summary>🔵 <b>AI & Machine Learning</b></summary>
   <br>
-  Developed intelligent systems such as AgroIntel for AI-powered crop health analysis and Nethra AI for rural clinic health screening using Python and TensorFlow.
+  Developed intelligent systems such as AgroIntel for AI-powered crop health analysis and GlucoVision AI for rural clinic health screening using Python and TensorFlow.
 </details>
 
 <details>
@@ -116,7 +113,3 @@ I'm a dedicated IT undergraduate pursuing a BSc (Hons) in Information Technology
   <br>
   Actively managing full-stack project lifecycles from architectural planning to deployment using agile methodologies.
 </details>
-
-<br>
-
-
